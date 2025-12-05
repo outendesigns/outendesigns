@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hey there, I'm Eric
 
 ## Builder • Thinker • Problem Solver
 
@@ -13,11 +13,11 @@ Welcome to my corner of GitHub! I love creating things that make life easier, fa
 ## 🛠️ Tech Toolbox
 <div align="center">
 <p><b>Languages</b></p>
-<p>🟦 JavaScript • 🐍 Python • 💎 Ruby • Shell • Swift</p>
+<p>🟦 JavaScript • 🐍 Python • 💎 Ruby • ☎️ Asterisk • 🐚 Shell • 🏃‍♂️ Swift</p>
 <p><b>Web & Cloud</b></p>
-<p>🟩 Node.js • 🐳 Docker • ☁️ AWS</p>
+<p>🟩 Node.js • 🐳 Docker • ☁️ AWS • ☊ Linode</p>
 <p><b>Tools</b></p>
-<p>📝 VS Code • 🔗 Git • Sublime • Linux</p>
+<p>📝 VS Code • 🔗 Git • 💬 Sublime • 🐧 Linux</p>
 
 </div>
 <!--
