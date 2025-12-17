@@ -2,13 +2,13 @@
 
 ## Builder • Thinker • Problem Solver
 
-Welcome to my corner of GitHub! I love creating things that make life easier, faster, or just more fun. This profile is a mix of experiments, passion projects, half-finished ideas, and the occasional polished gem.
+Welcome to my corner of GitHub! I love creating things that make life easier, faster, or just more fun. This profile is a mix of experiments, passion projects, half-finished ideas, and tools that make my life easier.
 
 ## 🚀 About Me
 💡 I enjoy turning ideas into reality with code<br/>
-🧠 Currently learning: LLM, Neural Networks, and AI<br/>
-🌱 Always exploring new tools, languages, and frameworks<br/>
-🎯 Goal for this year: Build better, ship faster, learn deeper<br/>
+🧠 Currently learning: LLM, Neural Networks, and Golang<br/>
+🌱 I'm always exploring new tools, languages, and frameworks<br/>
+🎯 Goal for this year: Become the One 🐇<br/>
 
 ## 🛠️ Tech Toolbox
 <div align="center">
