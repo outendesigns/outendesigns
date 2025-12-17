@@ -13,7 +13,7 @@ Welcome to my corner of GitHub! I love creating things that make life easier, fa
 ## 🛠️ Tech Toolbox
 <div align="center">
 <p><b>Languages</b></p>
-<p>🟦 JavaScript • 🐍 Python • 💎 Ruby • ☎️ Asterisk • 🐚 Shell • 🏃‍♂️ Swift</p>
+<p>🟦 JavaScript • 🐍 Python • 💎 Ruby • ☎️ Asterisk • 🐚 Shell • 🏃‍♂️ Swift • 🦫 Golang</p>
 <p><b>Web & Cloud</b></p>
 <p>🟩 Node.js • 🐳 Docker • ☁️ AWS • ☊ Linode</p>
 <p><b>Tools</b></p>
